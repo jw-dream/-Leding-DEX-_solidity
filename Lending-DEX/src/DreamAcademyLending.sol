@@ -72,7 +72,7 @@ contract DreamAcademyLending{
         }
     }
 
-    function getAccruedSupplyAmount(address _usdc) external{
+    function getAccruedSupplyAmount(address _usdc) external payable{
         
         
     }
